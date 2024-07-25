@@ -29,4 +29,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amruthlp12&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
-<!-- ![snake gif](https://github.com/AmruthLP12/AmruthLP12/blob/output/github-contribution-grid-snake.svg) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/amruthlp12/amruthlp12/output/snake.svg" alt="Snake animation" />
+
+###
