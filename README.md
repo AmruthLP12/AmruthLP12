@@ -84,6 +84,6 @@
 
 ## Snake Eating My Commit 🐍
 
-![Snake animation](https://github.com/<your-username>/<your-username>/blob/output/github-snake.svg)
+![Snake animation](https://github.com/AmruthLP12/AmruthLP12/blob/output/github-snake.svg)
 
 
