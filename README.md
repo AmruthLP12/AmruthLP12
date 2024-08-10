@@ -89,17 +89,18 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AmruthLP12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>  
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
-<!-- <div align="center">
+<!-- ![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>  -->
+
+
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amruthlp12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=amruthlp12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
-</div> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+</div> 
 
  ## 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=AmruthLP12&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
