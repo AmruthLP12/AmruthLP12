@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthgowda91200&label=Profile%20views&color=0e75b6&style=flat" alt="amruthgowda91200" /> </p>
 
@@ -90,15 +90,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AmruthLP12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/> 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!--!![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>  -->
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amruthlp12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=amruthlp12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=amruthlp12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div> 
 
  ## 🏆 GitHub Trophies
