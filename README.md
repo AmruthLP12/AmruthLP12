@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthlp12&label=Profile%20views&color=0e75b6&style=flat" alt="amruthlp12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthlp12" alt="amruthlp12" /></a> </p>
 
 
 
@@ -92,18 +91,21 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/> 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amruthlp12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=amruthlp12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=amruthlp12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+</div> 
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmruthLP12&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
+ ## 🏆 GitHub Trophies
+<!--![](https://github-profile-trophy.vercel.app/?username=AmruthLP12&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthlp12" alt="amruthlp12" /></a> </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
