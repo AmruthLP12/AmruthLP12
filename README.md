@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthlp12&label=Profile%20views&color=0e75b6&style=flat" alt="amruthlp12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthlp12" alt="amruthlp12" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthlp12" alt="amruthlp12" /></a> </p>
 
 
 
@@ -88,8 +87,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AmruthLP12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -100,17 +102,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmruthLP12&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmruthLP12&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmruthLP12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AmruthLP12&icon=10&color=13)](https://visitcount.itsvg.in)
+
+<!-- ---
+[![](https://visitcount.itsvg.in/api?id=AmruthLP12&icon=10&color=13)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@amruthlp) 
