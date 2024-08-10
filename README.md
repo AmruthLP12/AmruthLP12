@@ -1,20 +1,36 @@
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Amruth L P</h1>
-<h3 align="center">Full stack developer</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthlp12&label=Profile%20views&color=0e75b6&style=flat" alt="amruthlp12" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthlp12" alt="amruthlp12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthlp12" alt="amruthlp12" /></a> </p>
+
+
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthgowda91200&label=Profile%20views&color=0e75b6&style=flat" alt="amruthgowda91200" /> </p>
 
-- 🔭 I’m currently working on [Nations-Hub](https://github.com/AmruthLP12/Nations-Hub)
+- 🔭 I’m currently working on [Next-todo](https://github.com/AmruthLP12/AmruthLP12)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Framworks**
 
-- 📫 How to reach me **amruthlp12@gmail.com**
+- 👨‍💻 All of my projects are available at [https://amruthlp.vercel.app/](https://amruthlp.vercel.app/)
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **amruthlp12**
+
+- 📄 Know about my experiences [https://amruthlp.vercel.app/](https://amruthlp.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amruthlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amruthlp" height="30" width="40" /></a>
+<a href="https://codepen.io/amruth-l-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amruth-l-p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amruthlp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruthlp" height="30" width="40" /></a>
 </p>
+
 
 ###
 
@@ -72,14 +88,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amruthlp12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=amruthlp12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amruthlp12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmruthLP12&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AmruthLP12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AmruthLP12&icon=10&color=13)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@amruthlp) 
+
+
 
 ## Snake Eating My Commit 🐍
 
