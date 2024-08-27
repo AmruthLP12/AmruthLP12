@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://amruthlp.vercel.app/](https://amruthlp.vercel.app/)
+- 👨‍💻 All of my projects are available at [amruthlp.com](https://amruthlp.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **amruthlp12**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MDN0XJw7b5p9W-3kUuUJ3bOGiOYD6NeU/view?usp=drive_link)
+- 📄 Know about my experiences [Amruth's Resume](https://drive.google.com/file/d/1MDN0XJw7b5p9W-3kUuUJ3bOGiOYD6NeU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
