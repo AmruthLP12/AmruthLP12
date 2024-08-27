@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **amruthlp12**
+- 📫 How to reach me [**amruthlp12**](mailto:amruthlp12@gmail.com)
 
 - 📄 Know about my experiences [Amruth's Resume](https://drive.google.com/file/d/1MDN0XJw7b5p9W-3kUuUJ3bOGiOYD6NeU/view?usp=drive_link)
 
