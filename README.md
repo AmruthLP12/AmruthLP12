@@ -20,7 +20,7 @@
 
 - 📫 How to reach me [**amruthlp12**](mailto:amruthlp12@gmail.com)
 
-- 📄 Know about my experiences [Amruth's Resume](https://drive.google.com/file/d/1MDN0XJw7b5p9W-3kUuUJ3bOGiOYD6NeU/view?usp=drive_link)
+- 📄 Know about my experiences [Amruth's Resume](https://drive.google.com/file/d/1i0iIatKaMH5Cc6tx1yKOyOzcvje_FVyX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
