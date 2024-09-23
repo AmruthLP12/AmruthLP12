@@ -88,7 +88,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmruthLP12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AmruthLP12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmruthLP12&theme=dark&hide_border=false)<br/>  -->
