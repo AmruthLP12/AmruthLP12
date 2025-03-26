@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Loading...](https://github.com/AmruthLP12)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [amruthlp.com](https://amruthlp.vercel.app/)
 
