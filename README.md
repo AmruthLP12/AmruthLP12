@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Loading...<br><br>🌱 I’m currently learning Django<br><br>👨‍💻 All of my projects are available at [amruth.dev](https://amruthlp.vercel.app)<br><br>💬 Ask me about MERN<br><br>📫 How to reach me [amruthlp12](mailto:amruthlp12@gmail.com)<br><br>📄 Know about my experiences Amruth's Resume
+🔭 I’m currently working on Wagtail(Python) <br><br>🌱 I’m currently learning Django<br><br>👨‍💻 All of my projects are available at [amruth.dev](https://amruthlp.vercel.app)<br><br>💬 Ask me about MERN<br><br>📫 How to reach me [amruthlp12](mailto:amruthlp12@gmail.com)<br><br>📄 Know about my experiences Amruth's Resume
 
 
 ## 🌐 Socials:
