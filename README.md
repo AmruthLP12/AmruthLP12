@@ -57,10 +57,6 @@ Currently, I'm focused on **Python, Django, ERP systems, full-stack web developm
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wordpress,drupal" alt="Backend frameworks and CMS platforms" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nginx,apache" alt="Web servers" />
-</p>
-
 ### 🗄️ Databases & Data Management
 
 <p>
@@ -135,11 +131,7 @@ Currently, I'm focused on **Python, Django, ERP systems, full-stack web developm
 - DaisyUI
 - React Hook Form
 - Nodemon
-- CrateDB
-- Firebase
 - Apache Tomcat
-- PowerShell
-- Tor
 
 ### 🌱 Also Exploring
 
